@@ -1,0 +1,127 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: linear-gradient(#ffffff 0%, #ffffffee 40%, #fdfdfdb8 100%);
+}
+.bluemountain {
+  width: min-content;
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0.064);
+  font-family: poppins;
+  text-shadow: 1px 1px 1px black;
+}
+.biodata {
+  font-family: poppins;
+}
+.biodatas {
+  margin-bottom: 20px;
+  padding-top: 50px;
+}
+.ripen {
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+.col-sm-diri {
+  margin-top: 30px;
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px;
+  padding-bottom: 50px;
+  font-family: poppins;
+}
+.profileimage {
+  width: 170px;
+  margin-bottom: 20px;
+}
+.footer {
+  color: black;
+}
+
+.tugas-kuliah {
+  margin-bottom: 2px;
+  color: #ffffff;
+  padding-top: 50px;
+  font-family: poppins;
+}
+.profile h2 {
+  color: white;
+}
+.profile h7 {
+  color: rgb(236, 246, 213);
+  transform: translateY(-10px);
+  margin-top: 10px;
+}
+.biodata {
+  background: white;
+  padding-bottom: 100px;
+  padding-top: 20px;
+}
+.album-foto {
+  background: white;
+  padding-bottom: 200px;
+  padding-top: 20px;
+  font-family: poppins;
+}
+.tugas_kuliah {
+  background-color: #243f6a00;
+  padding-bottom: 200px;
+  padding-top: 100px;
+  font-family: poppins;
+}
+.footer {
+  background-color: white;
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+
+.ukuran-ikon {
+  color: black;
+  font-size: 20px;
+  padding-top: 0px;
+  padding: 0px 5px 0px 5px;
+  padding-bottom: 0px;
+}
+.textbio {
+  margin-inline: 10px;
+  margin-top: 20px;
+  line-height: 25px;
+  color: rgb(86, 85, 85);
+  text-shadow: 1px 1px 1px white;
+}
+.texthob {
+  margin-inline: 10px;
+  margin-top: 20px;
+  line-height: 25px;
+  color: rgb(86, 85, 85);
+  text-shadow: 1px 1px 1px white;
+}
+.matkul {
+  color: rgb(249, 249, 199);
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+.utk {
+  color: rgb(81, 80, 80);
+  font-size: 13px;
+  margin-top: 0px;
+}
+.card-title {
+  margin-top: 10px;
+}
+.card-link {
+  margin-left: 50px;
+}
+.fotpem {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.fotba {
+  margin-bottom: 30px;
+  color: rgb(55, 54, 54);
+}
