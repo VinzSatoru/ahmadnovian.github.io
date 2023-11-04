@@ -1,4 +1,5 @@
-html {
+
+ {
   scroll-behavior: smooth;
 }
 body {
@@ -120,6 +121,7 @@ body {
 .fotpem {
   margin-top: 10px;
   margin-bottom: 5px;
+  border-radius: 30px;
 }
 .fotba {
   margin-bottom: 30px;
